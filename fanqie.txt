@@ -1,4 +1,6 @@
-#番茄小说
+# This is Adguard Home Regular rules
+# https://raw.githubusercontent.com/ilpl/ad-hosts/master/filter.txt
+
 ||polaris3-normal-lq.zijieapi.com^$app=com.dragon.read
 ||v3-novelapp.fqnovelvod.com^$app=com.dragon.read
 ||ads3-normal-lq.zijieapi.com^$app=com.dragon.read
